@@ -1,6 +1,4 @@
-#IST 387 Final
-#19 December 2018
-#This is my code with help from the course textbook
+#This is my code
 
 
 #load dataset from blackboard using read.csv
